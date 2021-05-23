@@ -1,0 +1,8 @@
+main: me.foxley.multiworld.MultiWorld
+name: MultiWorld
+author: Foxley
+version: 1.0
+commands:
+  multiworld:
+    description: Multiworld command
+    aliases: [mw]
